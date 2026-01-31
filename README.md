@@ -32,7 +32,7 @@ This repository contains a fully functional CRUD application for managing **User
 1.  **Clone the repository**
     ```bash
     git clone [https://github.com/hosam221/express-postgres-docker-api](https://github.com/hosam221/express-postgres-docker-api)
-    cd your-repo-name
+    cd express-postgres-docker-api
     ```
 
 2.  **Run with Docker Compose**
